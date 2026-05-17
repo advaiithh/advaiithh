@@ -1,8 +1,8 @@
 # Hi, I'm Advaith 👋
 
-Computer Science student focused on AI systems, Cybersecurity, and full-stack development.
+Computer Science student focused on Generative AI, intelligent systems, and full-stack development.
 
-I enjoy building intelligent applications, learning modern technologies, and exploring secure and scalable system design.
+I enjoy building AI-powered applications, exploring modern technologies, and creating practical solutions with real-world impact.
 
 ---
 
