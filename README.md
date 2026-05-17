@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Advaith 👋
 
-<!--
-**advaiithh/advaiithh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on AI systems, Cybersecurity, and full-stack development.
 
-Here are some ideas to get you started:
+I enjoy building intelligent applications, learning modern technologies, and exploring secure and scalable system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🤖 Interested in Artificial Intelligence & Generative AI
+- 🔐 Passionate about Cybersecurity & Ethical Hacking
+- 🌐 Full-stack development enthusiast
+- 🧠 Exploring LLMs, RAG systems, and AI architecture
+- ⚡ Learning secure backend and system design practices
+- 🎯 Career Goal: AI Systems Engineer / Security Engineer
+
+---
+
+## 🧠 Technical Skills
+
+### Languages
+- Python
+- JavaScript
+- HTML
+- CSS
+
+### Frameworks & Technologies
+- React.js
+- FastAPI
+- Django REST Framework
+- Firebase
+- Tailwind CSS
+- REST APIs
+
+### AI & Security
+- Retrieval-Augmented Generation (RAG)
+- LLM Integration
+- Prompt Engineering
+- Web Application Security
+- Network Security
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Kali Linux
+- Wireshark
+- OWASP ZAP
+- Postman
+
+---
+
+## 📚 Currently Exploring
+
+- Generative AI
+- Transformer Architectures
+- AI Agents
+- Secure System Design
+- Web Security
+- Cloud Technologies
+
+---
+
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/advaiithh
+- LinkedIn: www.linkedin.com/in/advaithhv
+
+---
+
+⭐ Passionate about building intelligent and secure systems.
